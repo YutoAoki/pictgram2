@@ -17,6 +17,8 @@ class UsersController < ApplicationController
 
 # git feutureでの作業１
 #git feature_branchでの作業 コミットせず。
+# ブランチ
+#差分を確認
 
   private
   def user_params
