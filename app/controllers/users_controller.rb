@@ -16,6 +16,8 @@ class UsersController < ApplicationController
 
 # git develope での作業
 
+#git cevelope2での作業
+
   private
   def user_params
     params.require(:user).permit(:name, :email, :password, :password_confirmation)
