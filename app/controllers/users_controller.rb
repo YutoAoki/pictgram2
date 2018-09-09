@@ -14,6 +14,12 @@ class UsersController < ApplicationController
     end
   end
 
+<<<<<<< HEAD
+=======
+
+# git feutureでの作業１
+#git feature_branchでの作業 コミットせず。
+>>>>>>> feature_branch
 
   private
   def user_params
