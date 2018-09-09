@@ -14,6 +14,8 @@ class UsersController < ApplicationController
     end
   end
 
+  # git test
+
   private
   def user_params
     params.require(:user).permit(:name, :email, :password, :password_confirmation)
