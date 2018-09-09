@@ -14,7 +14,7 @@ class UsersController < ApplicationController
     end
   end
 
-  # git test
+  # git test masterブランチ
 
   private
   def user_params
