@@ -14,12 +14,6 @@ class UsersController < ApplicationController
     end
   end
 
-<<<<<<< HEAD
-=======
-# git develope での作業
-
-#git cevelope2での作業
->>>>>>> develope2
 
   private
   def user_params
